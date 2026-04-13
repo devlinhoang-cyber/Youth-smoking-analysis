@@ -1,17 +1,20 @@
 # Youth-smoking-analysis
 Analyze smoking in youth for Homework1-class 5322
 **Youth Cigarette Use Analysis**
-Predicting intiation, frequency, and monthly smoking intensity using CART, Random Forest. and Boosting
+
+Predicting initiation, frequency, and monthly smoking intensity using CART, Random Forest, and Boosting
+
 Author: Devlin Hoang
+
 Course: DATA 5322
 
 **Research question:**
-How do tobacco-related behaviors and other youth characteristics predict cigarette usages,intiation, and smoking intensity among them? 
+How do tobacco-related behaviors and other youth characteristics predict cigarette use, initiation, and smoking intensity among them? 
 
-This project usus decision trees and ensemble methods to model three related outcomes:
+This project uses decision trees and ensemble methods to model three related outcomes:
   1. Binary Classification: Has the youth ever smoked a cigarette before?
   2. Multi-class classification: How frequently does the youth smoke?
-  3. Regression: how many days per month do they smoke?
+  3. Regression: How many days per month do they smoke?
 
 **Project Structure**
 
